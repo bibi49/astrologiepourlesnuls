@@ -1,0 +1,219 @@
+#banner {
+	width: 100vw;
+	height:  100vh;
+	background-size: cover;
+	background-position: center;
+	padding:  300px 0;
+	text-align: center;
+}
+body{
+	background-image: url(file:///Users/clemencedelhoume/Desktop/d-voie-lactee-est-elle-visible.jpeg);
+}
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-family: Chivo;
+	margin : 0; 
+
+}
+
+#sous-titre {
+	color: white;
+	text-align:  center;
+	opacity:  0.7;
+	font-family:  overpass;
+	font-size: 24px;
+}
+
+#purple-bottom {
+	text-decoration:  none;
+	color: white;
+	text-align: center;
+	font-family: overpass;
+	font-size: 20px;
+	background-color: rgba(190, 163, 205, 1.0);
+ ;
+	padding: 15px;
+	border-radius: 10px;
+	
+}
+#purple-bottom: hover {
+	background-color: rgba(102, 28, 120, 0.3);
+}
+#container {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.card {
+background-color: white;
+width: 350px;
+height: 350px;
+box-shadow: 0 0 16px rgba(235,214,255, 0.9);
+border-radius: 4px;
+padding: 24px;
+margin: 8px;
+text-align: center;
+font-family: Overpass;
+}
+.card img{
+width: 100%;
+height: 300px;
+border-radius: 4 px;
+object-fit: cover;  
+}
+
+#Bélier{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(215, 117, 14, 0.3) ;
+	border-radius: 5px;
+	padding: 10px;
+}
+#Bélier:hover{
+	background-color: rgba(215, 117, 14, 1.0);
+}
+
+#Taureau{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(223, 166, 1, 0.3) ;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+#Taureau:hover{
+		background-color: rgba(223, 166, 1, 1.0);
+}
+#Gémeaux{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(229, 190, 6, 0.3) ;
+	border-radius: 5px;
+	padding: 10px;
+}
+#Gémeaux:hover{
+	background-color: rgba(229, 190, 6, 1.0);
+}
+#Cancer{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(136, 169, 35, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Cancer:hover{
+	background-color: rgba(136, 169, 35, 1.0);
+}
+#Lion{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(232, 81, 18, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Lion:hover{
+	background-color: rgba(232, 81, 18, 1.0);
+}
+#Vierge{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(200, 26, 132, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Vierge:hover{
+	background-color: rgba(200, 26, 132, 1.0);
+}
+#Balance{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(0, 122, 194, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Balance:hover{
+	background-color: rgba(0, 122, 194, 1.0);
+}
+#Scorpion{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(3, 149, 66, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Scorpion:hover{
+	background-color: rgba(3, 149, 66, 1.0);
+}
+#Sagittaire{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(210, 9, 18, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Sagittaire:hover{
+	background-color: rgba(210, 9, 18, 1.0);
+}
+#Capricorne{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(107, 33, 126, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Capricorne:hover{
+	background-color: rgba(107, 33, 126, 1.0);
+}
+#Verseau{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(2, 77, 153, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Verseau:hover{
+	background-color: rgba(2, 77, 153, 1.0);
+}
+#Poissons{
+	text-decoration: none;
+	color:  black;
+	background-color: rgba(0, 149, 159, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+}
+#Poissons:hover{
+	background-color: rgba(0, 149, 159, 1.0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
